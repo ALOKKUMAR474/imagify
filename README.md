@@ -1,2 +1,0 @@
-# imagify
-image generation website
